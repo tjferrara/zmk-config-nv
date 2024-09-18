@@ -39,7 +39,7 @@
 &kp TAB    &kp EXCL      &kp AT        &kp HASH      &kp DLLR      &kp PRCNT    &kp CARET     &kp AMPS   &kp ASTRK  &kp LPAR  &kp RPAR  &kp BSPC
 &kp LCTRL  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5       &kp NUMBER_6  &kp N7     &kp N8     &kp N9    &kp N0    &kp BACKSLASH
 &kp LSHFT  &trans        &trans        &trans        &trans        &trans       &kp UNDER     &kp PLUS   &kp LBRC   &kp RBRC  &kp PIPE  &kp LEFT_ALT
-                                       &kp LGUI      &tog 0        &kp SPACE    &kp RET       &kp SPACE  &to 3
+                                       &kp LGUI      &sl 0         &kp SPACE    &kp RET       &kp SPACE  &sl 2
             >;
         };
 
@@ -48,7 +48,7 @@
 &kp TAB           &trans    &kp UP_ARROW  &trans            &trans  &trans    &kp SLASH   &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp ASTERISK  &kp BACKSPACE
 &kp LEFT_CONTROL  &kp LEFT  &kp DOWN      &kp RIGHT         &trans  &trans    &kp EQUAL   &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp MINUS     &trans
 &kp LEFT_SHIFT    &trans    &trans        &trans            &trans  &trans    &kp KP_N0   &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp PLUS      &kp RIGHT_ALT
-                                          &kp LEFT_COMMAND  &tog 0  &trans    &kp RETURN  &kp SPACE        &trans
+                                          &kp LEFT_COMMAND  &sl 0   &trans    &kp RETURN  &kp SPACE        &sl 3
             >;
         };
 
